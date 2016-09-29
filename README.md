@@ -1,0 +1,1 @@
+The current project is to make a clone of the google home page using what I've learn so far from The Odin Project; HTML & CSS.
